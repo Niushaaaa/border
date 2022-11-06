@@ -4,7 +4,7 @@
     </title>
 </head>
 <body>
-<table>
+<table border="5">
     <?php
     for ($a = 1; $a <= 10; $a++) {
         for ($b = 1; $b <= 10; $b++) {
@@ -15,4 +15,3 @@
 </table>
 </body>
 </html>
-    
